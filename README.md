@@ -6,11 +6,11 @@
 
 [AtCoder Problems](https://kenkoooo.com/atcoder/#/table/)
 
-ABC473からABC212まで。ひとまず目標が緑なのでE問題以上は解きません。
+ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>なのでE問題以上は解きません。
 
 | Contest |  A  |  B  |  C  |  D  |
 | ------- | :-: | :-: | :-: | :-: |
-| ABC473  |  [✓]()  |  [✓]()  |  -  |  -  |
+| ABC473  |  [✓](./abc_problems/473/a.py)  |  [✓](./abc_problems/473/b.py)  |  [✓](./abc_problems/473/c.py)  |  -  |
 | ABC472  |  -  |  -  |  -  |  -  |
 | ABC471  |  -  |  -  |  -  |  -  |
 | ABC470  |  -  |  -  |  -  |  -  |
