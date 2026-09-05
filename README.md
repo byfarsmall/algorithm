@@ -14,8 +14,8 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 | ABC472  |  -  |  -  |  -  |  -  |
 | ABC471  |  -  |  -  |  -  |  -  |
 | ABC470  |  -  |  -  |  -  |  -  |
-| ABC469  |  -  |  -  |  -  |  -  |
-| ABC468  |  -  |  -  |  -  |  -  |
+| ABC469  |  [✓](./abc_problems/469/a.py)  |  [✓](./abc_problems/469/b.py)  |  -  |  -  |
+| ABC468  |  [✓](./abc_problems/468/a.py)  |  -  |  -  |  -  |
 | ABC467  |  -  |  -  |  -  |  -  |
 | ABC466  |  -  |  -  |  -  |  -  |
 | ABC465  |  -  |  -  |  -  |  -  |
