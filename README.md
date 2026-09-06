@@ -10,9 +10,10 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 
 | Contest |  A  |  B  |  C  |  D  |
 | ------- | :-: | :-: | :-: | :-: |
+| ABC474  |  [✓](./abc_problems/474/a.py) | [✓](./abc_problems/474/b.py) | [✓](./abc_problems/474/c.py) | - |
 | ABC473  |  [✓](./abc_problems/473/a.py)  |  [✓](./abc_problems/473/b.py)  |  [✓](./abc_problems/473/c.py)  |  -  |
 | ABC472  |  -  |  -  |  -  |  -  |
-| ABC471  |  -  |  -  |  -  |  -  |
+| ABC471  |  [✓](./abc_problems/471/a.py)  |  [✓](./abc_problems/471/b.py)  |  -  |  -  |
 | ABC470  |  -  |  -  |  -  |  -  |
 | ABC469  |  [✓](./abc_problems/469/a.py)  |  [✓](./abc_problems/469/b.py)  |  -  |  -  |
 | ABC468  |  [✓](./abc_problems/468/a.py)  |  -  |  -  |  -  |
