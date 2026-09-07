@@ -13,8 +13,8 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 | ABC474  |  [✓](./abc_problems/474/a.py) | [✓](./abc_problems/474/b.py) | [✓](./abc_problems/474/c.py) | - |
 | ABC473  |  [✓](./abc_problems/473/a.py)  |  [✓](./abc_problems/473/b.py)  |  [✓](./abc_problems/473/c.py)  |  -  |
 | ABC472  |  -  |  -  |  -  |  -  |
-| ABC471  |  [✓](./abc_problems/471/a.py)  |  [✓](./abc_problems/471/b.py)  |  -  |  -  |
-| ABC470  |  -  |  -  |  -  |  -  |
+| ABC471  |  [✓](./abc_problems/471/a.py)  |  [✓](./abc_problems/471/b.py)  |  [✓](./abc_problems/471/c.py)  |  -  |
+| ABC470  |  [✓](./abc_problems/470/a.py)  |  [✓](./abc_problems/470/b.py)  |  -  |  -  |
 | ABC469  |  [✓](./abc_problems/469/a.py)  |  [✓](./abc_problems/469/b.py)  |  -  |  -  |
 | ABC468  |  [✓](./abc_problems/468/a.py)  |  -  |  -  |  -  |
 | ABC467  |  -  |  -  |  -  |  -  |
@@ -297,4 +297,9 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 
 | Problem | Done |
 | ------- | :--: |
+| 1. アルゴリズムと計算量 |  |
+| 導入問題       |  [✓](./tessoku_book/a01.py)  |
+| 全探索(1)      |  [✓](./tessoku_book/a02.py)  |
+| 全探索(2)      |  [✓](./tessoku_book/a03.py)  |
+| -       |   -  |
 | -       |   -  |
