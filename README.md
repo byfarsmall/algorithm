@@ -280,8 +280,8 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 
 | Problem                     | Done |
 | --------------------------- | :--: |
-| ABC086A - Product           |   -  |
-| ABC081A - Placing Marbles   |   -  |
+| ABC086A - Product           | [✓](./past_questions/abc086a.py)  |
+| ABC081A - Placing Marbles   | [✓](./past_questions/abc081a.py)  |
 | ABC081B - Shift only        |   -  |
 | ABC087B - Coins             |   -  |
 | ABC083B - Some Sums         |   -  |
