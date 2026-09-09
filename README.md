@@ -17,7 +17,7 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 | ABC470  |  [✓](./abc_problems/470/a.py)  |  [✓](./abc_problems/470/b.py)  |  -  |  -  |
 | ABC469  |  [✓](./abc_problems/469/a.py)  |  [✓](./abc_problems/469/b.py)  |  -  |  -  |
 | ABC468  |  [✓](./abc_problems/468/a.py)  |  [✓](./abc_problems/468/b.py)  |  [✓](./abc_problems/468/c.py)  |  -  |
-| ABC467  |  -  |   [✓](./abc_problems/467/b.py)  |  -  |  -  |
+| ABC467  |  [✓](./abc_problems/467/a.py)   |   [✓](./abc_problems/467/b.py)  |  -  |  -  |
 | ABC466  |  -  |  -  |  -  |  -  |
 | ABC465  |  -  |  -  |  -  |  -  |
 | ABC464  |  -  |  -  |  -  |  -  |
@@ -302,4 +302,4 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 | 全探索(1)      |  [✓](./tessoku_book/a02.py)  |
 | 全探索(2)      |  [✓](./tessoku_book/a03.py)  |
 | 2進法       |  [✓](./tessoku_book/a04.py)   |
-| -       |   -  |
+| チャレンジ問題    |   [✓](./tessoku_book/a05.py)  |
