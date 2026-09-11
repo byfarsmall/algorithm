@@ -282,7 +282,7 @@ ABC473からABC212まで。ひとまず目標が<font color='green'>緑</font>�
 | --------------------------- | :--: |
 | ABC086A - Product           | [✓](./past_questions/abc086a.py)  |
 | ABC081A - Placing Marbles   | [✓](./past_questions/abc081a.py)  |
-| ABC081B - Shift only        |   -  |
+| ABC081B - Shift only        | [✓](./past_questions/abc081b.py)  |
 | ABC087B - Coins             |   -  |
 | ABC083B - Some Sums         |   -  |
 | ABC088B - Card Game for Two |   -  |
