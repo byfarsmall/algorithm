@@ -7,9 +7,8 @@ while(len(A)==N):
     for a in A:
         if a%2 == 1:
             print(cnt)
-            break
         else:
-            new_A.append(a/2)
+            new_A.append(a//2)
     cnt += 1
     A = new_A.copy()
     
